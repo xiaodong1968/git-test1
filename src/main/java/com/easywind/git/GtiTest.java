@@ -7,5 +7,6 @@ public class GtiTest {
         System.out.println("hello hot-fix");
         System.out.println("hello master1");
         System.out.println("hello master22222");
+        String str = "123";
     }
 }
