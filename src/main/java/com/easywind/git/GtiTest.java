@@ -5,5 +5,6 @@ public class GtiTest {
         System.out.println("\"hello git\" = " + "hello git");
         System.out.println("\"hello world\" = " + "hello world");
         System.out.println("hello hot-fix");
+        System.out.println("hello master1");
     }
 }
